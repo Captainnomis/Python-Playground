@@ -1,2 +1,6 @@
 https://www.youtube.com/watch?v=Kja_28SNIow&list=PLS1QulWo1RIZ6OujqIAXmLR3xsDn_ENHI
 https://www.youtube.com/watch?v=MAt-mRJk4rw&list=PLS1QulWo1RIZ6OujqIAXmLR3xsDn_ENHI&index=2
+
+Command to run flask:
+$env:FLASK_APP = "pushups_logger"
+flask run
